@@ -1,0 +1,54 @@
+*{
+    background: #ECF0F4;
+    margin: 0;
+    padding: 0;
+   
+}
+.loginh2{
+    background: transparent;
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+.form{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    align-items: center;
+     width: 320px;
+     height: 320px;
+    background: #35B5F2;
+    padding:40px 0px;
+    margin-top: 30px;
+    border-radius: 24px;
+    color: whitesmoke;
+    box-shadow: 8px 8px 8px  gray;
+    translate: 560px 120px ;
+}
+.boxs{
+   background:transparent;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-evenly;
+}
+input{
+    padding: 5px;
+    border-radius: 12px;
+    /* margin: 10px; */
+    border: 0cap;
+}
+.boxs button{
+    padding: 10px;
+    /* margin-top: 20px; */
+    background: rgb(255, 216, 118);
+    color: white;
+    border-radius: 12px;
+    font-size: 17px;
+    font-weight: bold;
+    border: 0cap;
+    translate: 40px;
+    width: 100px;
+}
+.loginp{
+    background: white;
+    padding: 4px;
+}

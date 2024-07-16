@@ -1,0 +1,77 @@
+*{
+    background:transparent;
+    margin: 0;padding: 0;
+}
+
+.nav{
+    background: red;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px 15px;
+    
+}
+.nav h2{
+    background: transparent;
+}
+.nav button{
+    padding: 5px 15px;
+}
+
+.searchblock{
+    border: 4px solid red;
+    height: 100px;
+    width: 400px;
+    translate: 600px;
+    margin-top: 20px;
+}
+
+.tables{
+    background: #ffffff;
+   height: 100px;
+   width: 800px;
+   translate: 120px;
+}
+.homeblock{
+    translate: 200px;
+     width: 320px;
+     height: 320px;
+     background: gold;
+}
+
+.dv1{
+    padding: 20px 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border: 4px solid red;
+    background: transparent;
+}
+.dv1 h3{
+    background: transparent;
+}
+.dv1 p{
+    background: transparent;
+}
+.addblock{
+    background: #ffffff;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    translate: 0px 100px;
+}
+.dname{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background:#ffffff;
+    translate: 0px 100px;
+    border: 4px solid reb;
+}
+.dname h3{
+    background: transparent;
+    
+}
+.viewbox{
+    background: transparent;
+}
